@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Attributes</string>
+
+    <string name="edit_text_hint">Type text here</string>
+
+    <string name="black_font_button">ЧЕРНЫЙ ТЕКСТ</string>
+    <string name="red_font_button">КРАСНЫЙ ТЕКСТ</string>
+    <string name="size_8">РАЗМЕР - 8SP</string>
+    <string name="size_24">РАЗМЕР - 24SP</string>
+    <string name="white_back_button">белый фон</string>
+    <string name="yellow_back_button">ЖЕЛТЫЙ ФОН</string>
+
+</resources>
